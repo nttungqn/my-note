@@ -1,4 +1,10 @@
-# My Note
+---
+coverY: 0
+---
 
-* Chỉ đơn giản là note 🤭 🤭
-* Node về nhiều thứ bla bla
+# 🤪 Actor model
+
+
+
+
+
